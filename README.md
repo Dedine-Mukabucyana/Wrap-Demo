@@ -18,4 +18,5 @@ This is a small Flutter app I made to demonstrate the `Wrap` widget. It displays
 
 ## Screenshot
 
+<img width="453" height="1011" alt="image" src="https://github.com/user-attachments/assets/35f7877a-85d0-47c3-a004-f9f1d49b6a68" />
 
