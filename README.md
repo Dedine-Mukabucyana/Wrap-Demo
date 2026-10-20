@@ -1,17 +1,21 @@
-# wrap_demo
+# Wrap Widget Demo
 
-A new Flutter project.
+This is a small Flutter app I made to demonstrate the `Wrap` widget. It displays buttons for different interests and automatically moves them to the next line when there is not enough space.
 
-## Getting Started
+## How to Run
 
-This project is a starting point for a Flutter application.
+1. Install Flutter.
+2. Clone this repository.
+3. Open the project folder in your terminal.
+4. Run `flutter pub get`.
+5. Run `flutter run`.
 
-A few resources to get you started if this is your first Flutter project:
+## Three Properties
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* **spacing:** Controls the horizontal space between the buttons.
+* **runSpacing:** Controls the vertical space between rows.
+* **alignment:** Controls how the buttons are positioned along each row. I used `WrapAlignment.start`.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+
+
